@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>Using different web frameworks to create a simple web app</title>
+      <link>http://johnnyniu.com/post/taste-different-web-frameworks/</link>
+      <pubDate>Thu, 15 Jun 2017 01:07:39 +1000</pubDate>
+      
+      <guid>http://johnnyniu.com/post/taste-different-web-frameworks/</guid>
+      <description>Using different web frameworks to create a simple web app This is a trivial project, which is using some popular web mvc frameworks to create a dummy web app. Through this project I try to taste lavours of different flanguages and frameworks.
+These language and framework includes:
+Java+ Springboot + Hibernate + themyleaf Python + flask + sqlalchemy + jinja2 Ruby + Sinatra Golang Nodejs Continuing&amp;hellip;  The source code is here: repo</description>
+    </item>
+    
+    <item>
       <title>what is proxy and reverse proxy</title>
       <link>http://johnnyniu.com/post/what-is-proxy-and-reverse-proxy/</link>
       <pubDate>Thu, 15 Jun 2017 01:07:39 +1000</pubDate>
